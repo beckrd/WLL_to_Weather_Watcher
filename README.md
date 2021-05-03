@@ -17,7 +17,7 @@ Python 3 dependencies
 - os
 
 If the code does not work, the json for the WeatherLink Live may not be consistent with the unit from which 
-the script was prepared.  If this is the case, it is recommended to take the following steps
+the script was prepared.  If this is the case, it is recommended to take the following steps (substituting values as requred):
 
 curl http://ip_wll:80/v1/current_conditions > file.json
 
