@@ -20,5 +20,7 @@ If the code does not work, the json for the WeatherLink Live may not be consiste
 the script was prepared.  If this is the case, it is recommended to take the following steps
 
 curl http://ip_wll:80/v1/current_conditions > file.json
+
 open file.json in a browser which will show the json data in an easy to read format (e.g., firefox)
+
 adjust the indices of the json_data statements to match
