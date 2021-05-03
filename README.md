@@ -6,6 +6,7 @@ and write it to a file where INDI's Weather Watcher driver can read the values.
 Requirements:
 
 Davis Weather Link Live
+
 INDI
  
 Python 3 dependencies
