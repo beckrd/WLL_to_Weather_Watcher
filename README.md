@@ -16,6 +16,9 @@ Python 3 dependencies
 - json
 - os
 
+Before use, the user will need to change the lines for the url to the WeatherLink Live, the path and file name for the data and, if desired,
+adjust the interval between readings.
+
 If the code does not work, the json for the WeatherLink Live may not be consistent with the unit from which 
 the script was prepared.  If this is the case, it is recommended to take the following steps (substituting values as requred):
 
